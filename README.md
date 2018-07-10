@@ -8,7 +8,7 @@ A tiny lib for reverse proxy. Principal purpose is learn GoLang.
 ## Install
 
 ```sh
-go get -u github.com/andresatencio/poxi
+go get -u github.com/andresatencio/poxy
 ```
 
 ## Examples
