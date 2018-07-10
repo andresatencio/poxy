@@ -1,4 +1,4 @@
-# Poxi
+# Poxy
 
 A tiny lib for reverse proxy. Principal purpose is learn GoLang.
 
